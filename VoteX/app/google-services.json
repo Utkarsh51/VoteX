@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "287140158154",
+    "firebase_url": "https://votex-35b04.firebaseio.com",
+    "project_id": "votex-35b04",
+    "storage_bucket": "votex-35b04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287140158154:android:9dea9157705420c9",
+        "android_client_info": {
+          "package_name": "com.android.tony.mastervotex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287140158154-ds0krodm65g1t0t3ctlk3i7qr2s579r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJJ0EttDFc-l5y1HVjz-vdpKI8T3QtcsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287140158154-ds0krodm65g1t0t3ctlk3i7qr2s579r9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287140158154:android:4098fa6c8ae310a7",
+        "android_client_info": {
+          "package_name": "com.android.tony.votex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287140158154-j13b71lr5lmk3n2utonsbm8qdvrg0hq1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.tony.votex",
+            "certificate_hash": "f2d0812b7d44f4a034fc26218a081737a1e2bcb5"
+          }
+        },
+        {
+          "client_id": "287140158154-ds0krodm65g1t0t3ctlk3i7qr2s579r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJJ0EttDFc-l5y1HVjz-vdpKI8T3QtcsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287140158154-ds0krodm65g1t0t3ctlk3i7qr2s579r9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
